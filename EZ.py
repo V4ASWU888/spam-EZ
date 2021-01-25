@@ -81,9 +81,9 @@ while True:
 		print("""
 	\x1b[93mSPAM-SMS
 
- \x1b[97m{\x1b[95m*\x1b[97m} Creator \x1b[90m: \x1b[97mKingtebe
- \x1b[97m{\x1b[95m*\x1b[97m} Youtube \x1b[90m: \x1b[97mBlack-IT
- \x1b[97m{\x1b[95m*\x1b[97m} Github  \x1b[90m: \x1b[92mhttps://github.com/KINGTEBE-404
+ \x1b[97m{\x1b[95m*\x1b[97m} Creator \x1b[90m: \x1b[97mHAKIKI
+ \x1b[97m{\x1b[95m*\x1b[97m} Youtube \x1b[90m: \x1b[97mBlack-widow
+ \x1b[97m{\x1b[95m*\x1b[97m} Github  \x1b[90m: \x1b[92mhttps://github.com/V4ASWU888
 \x1b[91m+\x1b[90m----------------------------------------------\x1b[91m+\n""")
 
 		print(" \x1b[93m! \x1b[97mExample \x1b[90m: \x1b[97m08xxxx ")
